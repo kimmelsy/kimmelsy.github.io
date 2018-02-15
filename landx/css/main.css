@@ -1,0 +1,8 @@
+.header{
+	/*h100vh+mih450*/
+	height: 100vh;
+	min-height: 450px;
+	background: linear-gradient(rgba(0,10,15,.85),rgba(0,10,15,.85)),
+	url(../images/header-bg.png) no-repeat center bottom;
+	background-size: cover;
+}
